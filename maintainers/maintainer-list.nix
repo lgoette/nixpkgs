@@ -10258,6 +10258,12 @@
     github = "LogicalOverflow";
     githubId = 5919957;
   };
+  lgoette = {
+    email = "nixos@lasse-goette.de";
+    github = "lgoette";
+    githubId = 44636793;
+    name = "Lasse Götte";
+  };
   lheckemann = {
     email = "git@sphalerite.org";
     github = "lheckemann";
